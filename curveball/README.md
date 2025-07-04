@@ -1,5 +1,7 @@
 # Curveball Contact Manager
 
+![](./.assets/images/image.jpg)
+
 ## Table of Contents
 1. [Overview](#overview)
 2. [Tech Stack](#tech-stack)
