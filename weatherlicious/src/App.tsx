@@ -115,17 +115,17 @@ export default function WeatherApp() {
   const getWeatherIcon = (weatherMain: string) => {
     switch (weatherMain.toLowerCase()) {
       case "clear":
-        return <Sun className="w-16 h-16 text-yellow-500 animate-pulse" />
+        return <Sun className="w-16 h-16 text-yellow-300" />
       case "clouds":
-        return <Cloud className="w-16 h-16 text-white animate-pulse" />
+        return <Cloud className="w-16 h-16 text-white" />
       case "rain":
-        return <CloudRain className="w-16 h-16 text-blue-500 animate-pulse" />
+        return <CloudRain className="w-16 h-16 text-blue-500" />
       case "snow":
-        return <CloudSnow className="w-16 h-16 text-blue-200 animate-pulse" />
+        return <CloudSnow className="w-16 h-16 text-blue-200" />
       case "thunderstorm":
-        return <CloudLightning className="w-16 h-16 text-purple-500 animate-pulse" />
+        return <CloudLightning className="w-16 h-16 text-purple-500" />
       default:
-        return <Sun className="w-16 h-16 text-yellow-500" />
+        return <Sun className="w-16 h-16 text-yellow-300" />
     }
   }
 
