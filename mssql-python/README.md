@@ -54,7 +54,7 @@ The project generates the following output files:
 ### Installation
 
 1. Clone the repository.
-2. Install dependencies (if a requirements file is present, e.g., `requirements.txt` or see `mise.toml` for environment setup).
+2. Install dependencies
 
 ### Usage
 
