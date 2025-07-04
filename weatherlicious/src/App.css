@@ -1,5 +1,10 @@
 @import "tailwindcss";
 @import "tw-animate-css";
+@import "@fontsource/fira-sans";
+
+body {
+  font-family: 'Fira Sans', sans-serif;
+}
 
 @custom-variant dark (&:is(.dark *));
 
