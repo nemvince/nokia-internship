@@ -171,7 +171,7 @@ export default function WeatherApp() {
     <div className="grow bg-gradient-to-br from-blue-400 via-blue-500 to-blue-600 p-4">
       <div className="max-w-6xl mx-auto space-y-6">
         <div className="text-center space-y-4">
-          <h1 className="text-4xl font-bold text-white drop-shadow-lg">Weather Dashboard</h1>
+          <h1 className="text-4xl font-bold text-white drop-shadow-lg">Weatherlicious</h1>
 
           <div className="flex gap-2 max-w-md mx-auto">
             <Input
