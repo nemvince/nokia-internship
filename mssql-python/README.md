@@ -33,8 +33,6 @@ This is the primary script of the project. It likely contains functions for:
 - `analyze_sales_performance()`: Evaluates sales performance and saves results to `sales_performance.png`.
 - `analyze_seasonality()`: Examines seasonal trends and saves results to `seasonal_analysis.png`.
 
-> **Note:** For detailed function documentation, see the docstrings within `main.py`.
-
 ## Outputs
 
 The project generates the following output files:
@@ -49,7 +47,7 @@ The project generates the following output files:
 ### Prerequisites
 
 - Python 3.x
-- Required Python packages (see below)
+- Required Python packages
 
 ### Installation
 
